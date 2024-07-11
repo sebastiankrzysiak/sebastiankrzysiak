@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sebastian Krzysiak</h1>
 <h3 align="center">A passionate student at UIUC studying Computer Science and GIS</h3>
 
-- 🔭 I’m currently working on **A TikTok data science app that helps users find currently trending products**
-
-- 🌱 I’m currently learning **Mobile app development with Flutter in my free time and system programming at my university**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sebastiankrzysiak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastiankrzysiak" height="30" width="40" /></a>
